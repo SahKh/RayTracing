@@ -17,9 +17,12 @@ git clone --recursive git@github.com:SahKh/RayTracing.git
 ```
 # 2. Navigate to the scripts folder and run the setup.bat
 Once the repository is cloned, go to the scripts folder and run the setup.bat script by double-clicking it or running it through the command line:
-
+```
 cd RayTracing/scripts
-/setup.bat
+```
+```
+./setup.bat
+```
 
 ![image](https://github.com/user-attachments/assets/1c249a8e-eea5-4f5d-9b7f-8eaaaff05f14)
 ![image](https://github.com/user-attachments/assets/e7b44aed-9802-4937-a953-9b8209c7b620)
